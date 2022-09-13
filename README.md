@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding,swinmming,gaming.
 - 🌱 I’m currently learning compute science.
 - 💞️ I’m looking to collaborate on a game that was called swinging.
-- 📫 How to reach me ...qq:1732356141.
+- 📫 How to reach me ...email:songch@lzu.edu.cn.
 
 <!---
 kikyo01/kikyo01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
